@@ -22,16 +22,15 @@
 
 #### - Two managers positions will soon be vacant. 
 
-#### -  When we compare the number of possible mentors to the amount of positions that will soon be vacant we noticed that the vacant positions exceed the montors. 
+#### -  When we compared the number of possible mentors to the number of positions that will soon be vacant, we noticed that the vacant positions exceed the number of mentors. 
 
+### *Summary:*
 
-### *Summary:* Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+####    1. The "silver tsunami" will result in 72,458 position vacancies. 50,842 will be senior positions, and the remaining 21,616 will be Engineering, staff, technique Leader, Assistant Engineer, and manager positions. 
 
-####    1. The "silver tsunami" will result in 72,458 position vacancies. 
-
-####    2. There are 1549 eligible retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees. That is not enough.
+####    2. There are 1549 eligible employees in the company that could serve as mentors to new Pewlett Hackard employees. The number of mentors compared to the number of soon-to-be vacant positions is very low. Other avenues should be explored to ensure new hires receive quality training. 
     
-####    Suggestion one: The amount of employees in the company might mean that there are employees in many places of the world. It would be interesting to look at eligible retirees by country, state, and/or city. 
+####    *Suggestion One:* The number of employees in the company might mean that there are employees in many places in the world. Therefore, it might benefit the company to look at eligible retirees by geographical location and timezone. 
 
-####    Suggestion two: Creating a table for each department will show which ones are in more need of employees. Further conversation with each department manager would be needed to determin if they can do without some positions to reduce the workload on the mentors.
+####    *Suggestion Two:* Creating a table for each department will show which ones are in more need of employees. Further conversation with each department manager would be needed to determine if they can do without some positions.
 
